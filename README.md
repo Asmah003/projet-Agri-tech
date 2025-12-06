@@ -1,7 +1,7 @@
 Projet Web Simulant une Plateforme de Formation Agricole
 ## Description
 Ce projet consiste à concevoir un site web complet simulant une plateforme agricole proposant des formations aux agriculteurs.
-Il a pour objectif de reproduire un environnement professionnel tout en vous familiarisant avec l’utilisation des frameworks CSS modernes (Tailwind, Bootstrap, Bulma, etc.).
+Il a pour objectif de reproduire un environnement professionnel tout en vous familiarisant avec l’utilisation des frameworks CSS modernes (Tailwind, Bootstrap etc.).
 Toutes les ressources visuelles (images, vidéos, designs) sont disponibles dans le lien Google Drive fourni dans la section Ressources supplémentaires du cours.
 ## Objectifs pédagogiques
 *  Concevoir un projet web réaliste, structuré et cohérent
