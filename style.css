@@ -37,10 +37,6 @@ body {
   border-radius: 15px;
   margin-bottom: 35px;
 }
-.anime:hover {
-  transition: 09s ease-out;
-  /* heigh: 300px; */
-}
 /* ---------menu sidebar---------------- */
 :root {
   --color-primary-dark: #1c5e3d; /* Vert foncé du formulaire de login */
